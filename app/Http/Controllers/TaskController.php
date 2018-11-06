@@ -5,6 +5,9 @@ namespace App\Http\Controllers;
 use App\Task;
 use Illuminate\Http\Request;
 
+// Facades
+use View;
+
 class TaskController extends Controller
 {
     /**
@@ -14,7 +17,8 @@ class TaskController extends Controller
      */
     public function index()
     {
-        //
+        // 
+        return View::make('tasks.tasks_list');
     }
 
     /**
