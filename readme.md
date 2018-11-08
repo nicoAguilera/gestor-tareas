@@ -1,3 +1,7 @@
+## Gestor de Tareas
+
+Esto es un proyecto de prueba para practicar sobre nuevas funcionalidades de la versión 5.7 de Laravel e implementar mejoras en el diseño de una aplicación para ser aplicadas en futuros proyectos.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
